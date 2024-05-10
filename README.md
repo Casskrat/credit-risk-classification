@@ -5,9 +5,9 @@ In this analysis we look into factors that contribute to loan risk. There are 77
 ## Results
 
 Machine Learning Model:
-    * Precision: 94% (The logisitic regression model predicts the healthy loans with 100% accuracy and a high-risk loan with 87% accuracy.)
-    * Accuracy: 99% (overall model accuracy)
-    * Recall: 94% (The logisitic regression model had 100% recall in predicting healthy loans, but 89% recall in predicting high-risk loans.)
+    - Precision: 94% (The logisitic regression model predicts the healthy loans with 100% accuracy and a high-risk loan with 87% accuracy.)
+    - Accuracy: 99% (overall model accuracy)
+    - Recall: 94% (The logisitic regression model had 100% recall in predicting healthy loans, but 89% recall in predicting high-risk loans.)
 
 ## Summary
 
